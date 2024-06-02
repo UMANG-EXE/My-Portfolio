@@ -12,7 +12,7 @@ A personal portfolio website showcasing skills, projects, experience, and contac
 - Interactive elements and animations
 
 **Usage:**
-Visit the deployed portfolio website at: [https://umang-exe.github.io/Level-1-Task-2-Portfolio/]
+Visit the deployed portfolio website at: [https://umang-exe.github.io/My-Portflio/]
 
 ### Contact
 For queries, contact Umang at umangjoshi144@gmail.com.
