@@ -1,4 +1,4 @@
-# Umang Joshi's Portfolio
+# My Portfolio
 
 Welcome to my portfolio repository! Here, you'll find information about me, my interests, skills, education, internships, projects, and how to get in touch with me.
 
